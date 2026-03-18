@@ -20,3 +20,14 @@ Try running the code below to see the **Skulpt** engine in action.
 print("Hello, World!")
 print("I am officially a student of The Python Ledger.")
 ```
+
+**Bite-Sized Challenge:** *Mathematical Strings*
+
+In Python, you can actually "multiply" a string of text to repeat it.
+
+**Task:** Change the code below to print your name 10 times by changing the number 3 to 10.
+
+```python interactive
+name = "Python Student "
+print(name * 3)
+```
