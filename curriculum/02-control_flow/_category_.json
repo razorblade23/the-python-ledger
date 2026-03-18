@@ -1,0 +1,8 @@
+{
+  "label": "Control flow",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn how to control the execution flow using `if`, `elif` and `else` keywords. We will also learn about loops."
+  }
+}
