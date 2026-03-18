@@ -4,19 +4,19 @@ The open-source, community-driven roadmap to Python mastery.
 
 The Python Ledger is a free, comprehensive curriculum designed to take students from their first "Hello World" to building professional-grade applications. 
 
-Inspired by the philosophy of The Odin Project, we believe the best way to learn is by doing, reading documentation, and contributing to the ecosystem.
+Inspired by the philosophy of *The Odin Project*, we believe the best way to learn is by doing, reading documentation, and contributing to the ecosystem.
 
 ## 💡 The Philosophy
 
-Zero-Friction Starts: The first steps of the journey happen entirely in the browser. No installers, no PATH errors, no friction.
+* **Zero-Friction Starts:** The first steps of the journey happen entirely in the browser. No installers, no PATH errors, no friction.
 
-The "Training Wheels" Phase: We move from the browser to the local machine early. Real developers use terminals, Git, and IDEs; our students do too.
+* **The "Training Wheels" Phase:** We move from the browser to the local machine early. Real developers use terminals, Git, and IDEs; our students do too.
 
 * **Curriculum-as-Code:** This entire resource lives on GitHub. If a lesson is unclear or a link is broken, the students are encouraged to fix it themselves.
+
 * **Bite-Sized Mastery:** Lessons are broken down into small, digestible sections to maintain momentum and prevent burnout.
 
 ## 🏗️ How It Works
-
 This project is split into two parts to ensure maximum stability and ease of contribution:
 
 * **The Ledger (This Repo):** A collection of pure Markdown files. This is the heart of the curriculum. No code, no scripts—just high-quality education.
