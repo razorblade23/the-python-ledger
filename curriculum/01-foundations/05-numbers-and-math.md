@@ -87,5 +87,3 @@ You are calculating the final balance of a ledger entry after a year of 5% inter
 
 ## Next Steps
 Calculations are great, but a ledger needs to make decisions. In the next lesson, we’ll learn how to compare values using **Booleans and Comparison Operators**.
-
-[Go to next lesson: Comparisons](./06-comparisons.md)

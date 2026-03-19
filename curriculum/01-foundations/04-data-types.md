@@ -84,5 +84,3 @@ You are auditing your supply of "Coding Fuel."
 
 ## Next Steps
 Now that we know the types, it's time to put them to work. In the next lesson, we’ll learn **Basic Math**—how to add, subtract, and manipulate these numbers in our Ledger.
-
-[Go to next lesson: Numbers and Math](./05-numbers-and-math.md)
