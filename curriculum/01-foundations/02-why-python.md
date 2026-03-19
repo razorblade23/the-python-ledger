@@ -1,5 +1,5 @@
 ---
-id: print-function
+id: why-python
 title: What is Python
 sidebar_label: 2. What is Python
 sidebar_position: 2
