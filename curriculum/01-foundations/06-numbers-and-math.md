@@ -1,8 +1,8 @@
 ---
 id: numbers-and-math
 title: Numbers and Math
-sidebar_label: 5. Numbers and Math
-sidebar_position: 5
+sidebar_label: 6. Numbers and Math
+sidebar_position: 6
 ---
 
 # Numbers and Math: Balancing the Ledger

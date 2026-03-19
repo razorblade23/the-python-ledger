@@ -1,8 +1,8 @@
 ---
 id: comparisons
 title: Comparison Operators
-sidebar_label: 6. Comparisons
-sidebar_position: 6
+sidebar_label: 7. Comparisons
+sidebar_position: 7
 ---
 
 # Comparisons: Auditing the Ledger

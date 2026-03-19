@@ -1,8 +1,8 @@
 ---
 id: print-function
 title: The Print Function
-sidebar_label: 2. The Print Function
-sidebar_position: 2
+sidebar_label: 3. The Print Function
+sidebar_position: 3
 ---
 
 # The Print Function: Recording Your First Entry

@@ -1,8 +1,8 @@
 ---
 id: if-statements
 title: If Statements
-sidebar_label: 7. If Statements
-sidebar_position: 7
+sidebar_label: 8. If Statements
+sidebar_position: 8
 ---
 
 # If Statements: The Fork in the Road
