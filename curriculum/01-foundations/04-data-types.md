@@ -50,8 +50,6 @@ print(type(is_coding))
 ### Dynamic Typing: The Python Superpower
 In some languages, you have to tell the computer exactly what type a variable is. In Python, the computer figures it out automatically based on the value you provide. This is called **Dynamic Typing**.
 
----
-
 ### 🏆 The Ledger Challenge: Inventory Audit
 You are auditing your supply of "Coding Fuel."
 
