@@ -70,6 +70,20 @@ Everything after `#` is considered a comment.
 
 ```
 
+<details>
+  <summary>Read more about `print()` function</summary>
+
+`print()` function has a few other arguments that you can use to further format your text on the screen.
+
+Full function signiture is as follows:
+```python
+print(*objects, sep=' ', end='\n', file=None, flush=False)
+```
+
+To learn more about this specific function and its arguments, visit the official python [docs](https://docs.python.org/3/library/functions.html#print)
+
+</details>
+
 ---
 
 ## 📚 Deep Dive (Optional)
