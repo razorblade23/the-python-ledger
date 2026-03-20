@@ -82,16 +82,11 @@ print(*objects, sep=' ', end='\n', file=None, flush=False)
 
 To learn more about this specific function and its arguments, visit the official python [docs](https://docs.python.org/3/library/functions.html#print)
 
-</details>
-
----
-
-## 📚 Deep Dive (Optional)
-If you want to see exactly how professional developers use `print()` for debugging, check out these resources:
+Other resources:
 * [W3Schools: Python Print Function](https://www.w3schools.com/python/ref_func_print.asp)
 * [Real Python: Your Guide to the Python print() Function](https://realpython.com/python-print/)
 
----
+</details>
 
 ## Next Steps
 Now that you can output data, it's time to learn how to **store** it.
