@@ -80,7 +80,5 @@ You are auditing your supply of "Coding Fuel."
 * [Python Docs: Built-in Types](https://docs.python.org/3/library/stdtypes.html)
 * [Real Python: Basic Data Types in Python](https://realpython.com/python-data-types/)
 
----
-
 ## Next Steps
 Now that we know the types, it's time to put them to work. In the next lesson, we’ll learn **Basic Math**—how to add, subtract, and manipulate these numbers in our Ledger.
