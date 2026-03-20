@@ -31,8 +31,6 @@ These represent logical values: either **True** or **False**. Note the capital l
 * **Example:** `True`, `False`
 * **Use for:** Checking if a user is logged in, if a task is finished, or if a price is too high.
 
----
-
 ### The `type()` Inspector
 If you ever get confused about what is inside a variable, Python provides a built-in magnifying glass: the `type()` function.
 
