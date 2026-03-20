@@ -14,7 +14,11 @@ Think of a function as a small machine. You give it some "raw material" (input),
 
 For `print()`, the input is whatever you put inside the parentheses `()`, and the output is that text appearing in your console.
 
+:::note
 
+We will learn more about funtions in Python later in the course.
+
+:::
 
 ### Strings: The Language of Text
 When we want Python to treat something as plain text rather than a command, we wrap it in **quotes**. In programming, a sequence of characters inside quotes is called a **String**.
