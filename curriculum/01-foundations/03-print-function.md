@@ -80,7 +80,8 @@ Full function signiture is as follows:
 print(*objects, sep=' ', end='\n', file=None, flush=False)
 ```
 
-To learn more about this specific function and its arguments, visit the official python [docs](https://docs.python.org/3/library/functions.html#print)
+To learn more about this specific function and its arguments, visit:
+* [Official python documentation](https://docs.python.org/3/library/functions.html#print)
 
 Other resources:
 * [W3Schools: Python Print Function](https://www.w3schools.com/python/ref_func_print.asp)
