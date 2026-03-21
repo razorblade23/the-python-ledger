@@ -1,3 +1,10 @@
+---
+id: loops
+title: Loops
+sidebar_label: 9. Loops
+sidebar_position: 10
+---
+
 # 🐍 Welcome to the Loop Zone! Python `for` and `while` Loops
 
 Imagine you have to write "I will not throw paper airplanes in class" 100 times on a chalkboard. Doing that by hand sounds exhausting, right? 
