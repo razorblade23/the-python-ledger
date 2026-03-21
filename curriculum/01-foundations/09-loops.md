@@ -27,7 +27,7 @@ Think of it like eating pizza. **While** you are still hungry, you will grab ano
 
 ### The Syntax
 
-```python
+```python interactive
 hungry = True
 slices_eaten = 0
 
@@ -55,7 +55,7 @@ Think of it like checking your grocery list. **For** every item on the list, you
 
 ### The Syntax (Looping through a List)
 
-```python
+```python interactive
 grocery_list = ["Apples", "Bananas", "Oatmeal", "Milk"]
 
 for item in grocery_list:
@@ -65,7 +65,7 @@ for item in grocery_list:
 ### The `range()` Function
 Often, you just want to run a loop a specific number of times. Python gives us a handy tool for this called `range()`.
 
-```python
+```python interactive
 # This will print numbers 0 through 4
 for number in range(5):
     print("Counting: ", number)
@@ -82,7 +82,7 @@ Sometimes you need to interrupt a loop before it naturally finishes. Python give
 * **`continue`**: Skips the rest of the current loop cycle and jumps right back to the top to start the next cycle.
 
 ### Example in Action:
-```python
+```python interactive
 for number in range(10):
     if number == 3:
         continue  # Skips printing 3
@@ -100,3 +100,7 @@ for number in range(10):
 * Use a **`for` loop** when you are going through a collection of items, or you know exactly how many times you want the code to run.
 
 Ready to test your knowledge? Try writing a `for` loop that prints out the letters of your own name, one by one!
+
+```python interactive
+my_name = "" # write you name here
+```
