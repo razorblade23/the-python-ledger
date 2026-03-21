@@ -104,3 +104,6 @@ Ready to test your knowledge? Try writing a `for` loop that prints out the lette
 ```python interactive
 my_name = "" # write you name here
 ```
+
+## Deep dive
+https://www.stratascratch.com/blog/python-loops-explained-here-is-how-to-master-them
