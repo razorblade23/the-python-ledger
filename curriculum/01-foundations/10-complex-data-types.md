@@ -21,7 +21,7 @@ A list is an ordered, mutable (changeable) collection of items. Lists can contai
 * **Syntax:** Created using square brackets `[]`.
 
 **Example:**
-```python
+```python interactive
 # Creating a list of fruits
 fruits = ["apple", "banana", "cherry"]
 
@@ -46,7 +46,7 @@ A tuple is very similar to a list, but it is **immutable**. Once a tuple is crea
 * **Syntax:** Created using parentheses `()`.
 
 **Example:**
-```python
+```python interactive
 # Creating a tuple of coordinates
 coordinates = (10.5, 20.0, 5.5)
 
@@ -67,7 +67,7 @@ A dictionary is a collection of key-value pairs. Instead of using numbers to acc
 * **Syntax:** Created using curly braces `{}` with colons separating keys and values.
 
 **Example:**
-```python
+```python interactive
 # Creating a dictionary for a student
 student = {
     "name": "Alice",
@@ -93,7 +93,7 @@ A set is an unordered collection of unique items. Sets are highly efficient for 
 * **Syntax:** Created using curly braces `{}` or the `set()` function.
 
 **Example:**
-```python
+```python interactive
 # Creating a set of numbers with duplicates
 unique_numbers = {1, 2, 2, 3, 4, 4, 5}
 

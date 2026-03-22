@@ -14,7 +14,7 @@ Data is only useful if you can do something with it. In this lesson, we cover **
 In Python, the `for` loop is primarily used to iterate over a sequence (like a list, tuple, dictionary, set, or string). It’s called "definite" because we usually know how many times it will run based on the size of the collection.
 
 **Basic Syntax:**
-```python
+```python interactive
 fruits = ["apple", "banana", "cherry"]
 
 for fruit in fruits:
@@ -23,7 +23,7 @@ for fruit in fruits:
 
 ### Iterating with `range()`
 If you need to loop a specific number of times (rather than over a collection), use the `range()` function.
-```python
+```python interactive
 # range(start, stop) - stop is exclusive
 for i in range(1, 4):
     print(f"Attempt number {i}")
@@ -32,7 +32,7 @@ for i in range(1, 4):
 
 ### Iterating over Dictionaries
 Dictionaries require a bit more specific handling since they have keys and values.
-```python
+```python interactive
 user = {"username": "coder99", "status": "active", "level": 5}
 
 # 1. Iterating over keys (default)
@@ -54,7 +54,7 @@ for key, value in user.items():
 A `while` loop repeats as long as a certain condition is **True**. It is used when you don't know exactly how many times you need to repeat the code beforehand.
 
 **Example:**
-```python
+```python interactive
 count = 5
 while count > 0:
     print(f"Countdown: {count}")
@@ -72,7 +72,7 @@ Sometimes you need to change the behavior of a loop while it’s running.
 * **`continue`**: Skips the rest of the current block and jumps to the next iteration.
 
 **Example:**
-```python
+```python interactive
 numbers = [1, 2, 3, 4, 5, 6]
 
 for n in numbers:
