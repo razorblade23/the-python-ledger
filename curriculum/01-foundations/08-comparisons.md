@@ -90,9 +90,14 @@ You are writing a script to see if a transaction should be approved.
 
 ---
 
-## 📚 Deep Dive
+<details>
+  <summary>📚 Deep Dive</summary>
+
+Other resources:
 * [W3Schools: Python Operators](https://www.w3schools.com/python/python_operators.asp)
 * [Real Python: Python Booleans: Optimize Your Code With Truth Values](https://realpython.com/python-boolean/)
+
+</details>
 
 ---
 
