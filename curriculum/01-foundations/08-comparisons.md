@@ -99,7 +99,5 @@ Other resources:
 
 </details>
 
----
-
 ## Next Steps
 Now that we can compare values, we can finally tell Python to **act** on those results using **If Statements**.

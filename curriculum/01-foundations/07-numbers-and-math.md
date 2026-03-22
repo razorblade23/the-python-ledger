@@ -89,7 +89,5 @@ Other resources:
 
 </details>
 
----
-
 ## Next Steps
 Calculations are great, but a ledger needs to make decisions. In the next lesson, we’ll learn how to compare values using **Booleans and Comparison Operators**.

@@ -82,7 +82,6 @@ Other resources:
 * [Real Python: Variables in Python](https://realpython.com/python-variables/)
 
 </details>
----
 
 ## Next Steps
 Now that we have boxes to store information, we need to talk about the **different types of stuff** we can put inside them.

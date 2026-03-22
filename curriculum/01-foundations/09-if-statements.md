@@ -90,7 +90,5 @@ Other resources:
 
 </details>
 
----
-
 ## Next Steps
 Congratulations! You've mastered the basics of logic. You are now ready for your first **Project**. We will be building a text-based adventure right inside our browser terminal.
