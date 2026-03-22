@@ -104,6 +104,17 @@ Ready to test your knowledge? Try writing a `for` loop that prints out the lette
 ```python interactive
 my_name = "" # write you name here
 ```
+---
 
-## Deep dive
-https://www.stratascratch.com/blog/python-loops-explained-here-is-how-to-master-them
+<details>
+  <summary>📚 Deep Dive</summary>
+
+Official python documentation:
+* [Python Docs: For loops](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+* [Python Docs: While loops](https://docs.python.org/3/reference/compound_stmts.html#while)
+
+Other resources:
+* [Towardsdatascience.com: Loops and statements in Python: A deep understanding (with examples)](https://towardsdatascience.com/loops-and-statements-in-python-a-deep-understanding-with-examples-2099fc6e37d7/)
+* [Geeksforgeeks.org: Loops in Python](https://www.geeksforgeeks.org/python/loops-in-python/)
+
+</details>
