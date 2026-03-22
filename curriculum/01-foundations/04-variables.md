@@ -56,7 +56,8 @@ In Python, the community standard is called **snake_case** (all lowercase with u
 ### 🏆 The Ledger Challenge: The Character Sheet
 Let's use variables to build a mini "Character Sheet" for your coding journey.
 
-**Task:** 1. Create a variable called `coder_name` and set it to your name.
+**Task:** 
+1. Create a variable called `coder_name` and set it to your name.
 2. Create a variable called `coding_level` and set it to `1`.
 3. Create a variable called `favorite_language` and set it to `"Python"`.
 4. Use a single `print()` statement (or multiple!) to show your stats.
