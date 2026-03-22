@@ -79,9 +79,16 @@ You are writing a login check for **The Python Ledger** database.
 
 ---
 
-## 📚 Deep Dive
+<details>
+  <summary>📚 Deep Dive</summary>
+
+Official python documentation:
 * [Python Docs: More Control Flow Tools](https://docs.python.org/3/tutorial/controlflow.html)
+
+Other resources:
 * [Real Python: Conditional Statements in Python](https://realpython.com/python-conditional-statements/)
+
+</details>
 
 ---
 
