@@ -7,8 +7,7 @@ sidebar_position: 4
 
 # Data Types: Sorting the Ledger
 
-Not all data is created equal. You can't multiply a "Name" by a "Phone Number," and you can't capitalize a "Price." To keep your code from crashing, you must understand the four fundamental **Data Types** in Python.
-
+Not all data is created equal. You can't multiply a "Name" by a "Phone Number," and you can't capitalize a "Price." To keep your code from crashing, you must understand the four fundamental **Data Types** in Python. These are also called **primitive** data types.
 
 
 ### 1. Strings (`str`)
@@ -72,9 +71,20 @@ You are auditing your supply of "Coding Fuel."
 
 ---
 
-## 📚 Deep Dive
-* [Python Docs: Built-in Types](https://docs.python.org/3/library/stdtypes.html)
-* [Real Python: Basic Data Types in Python](https://realpython.com/python-data-types/)
+<details>
+  <summary>Read more about primitive data types</summary>
+
+These represent the smallest possible unit of information that can be stored.
+In python, these are the ones listed above, as well as `complex` which is used for scientific calculations and wont be part of this course. 
+
+To learn more about primitive data types in python, visit:
+* [Official python documentation](https://docs.python.org/3/library/stdtypes.html#built-in-typ)
+
+Other resources:
+* [Geomar.de: Primitive Data Types](https://2025-pherwiss-2-945e87.pages.geomar.de/content/02_python_basics/04_primitive_data_types.html)
+* [Pieriantraining.com: Python primitive data types - a comprehensive tutorial](https://pieriantraining.com/python-primitive-data-types-a-comprehensive-tutorial/)
+
+</details>
 
 ## Next Steps
-Now that we know the types, it's time to put them to work. In the next lesson, we’ll learn **Basic Math**—how to add, subtract, and manipulate these numbers in our Ledger.
+Now that we know the types, it's time to put them to work. In the next lesson, we’ll learn **Basic Math** - how to add, subtract, and manipulate these numbers in our Ledger.
