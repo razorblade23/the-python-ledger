@@ -1,8 +1,9 @@
 ---
 id: numbers-and-math
 title: Numbers and Math
-sidebar_label: 6. Numbers and Math
-sidebar_position: 6
+sidebar_label: 7. Numbers and Math
+sidebar_position: 7
+
 ---
 
 # Numbers and Math: Balancing the Ledger
@@ -78,6 +79,17 @@ You are calculating the final balance of a ledger entry after a year of 5% inter
 ```
 
 ---
+
+<details>
+  <summary>📚 Deep Dive</summary>
+
+Other resources:
+* [Python Docs: Numeric Types](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)
+* [Programiz: Python Operators](https://www.programiz.com/python-programming/operators)
+* [Geomar.de: Primitive Data Types](https://2025-pherwiss-2-945e87.pages.geomar.de/content/02_python_basics/04_primitive_data_types.html)
+* [Pieriantraining.com: Python primitive data types - a comprehensive tutorial](https://pieriantraining.com/python-primitive-data-types-a-comprehensive-tutorial/)
+
+</details>
 
 ## 📚 Deep Dive
 * [Python Docs: Numeric Types](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)

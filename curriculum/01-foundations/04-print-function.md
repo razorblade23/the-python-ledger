@@ -1,8 +1,8 @@
 ---
 id: print-function
 title: The Print Function
-sidebar_label: 3. The Print Function
-sidebar_position: 3
+sidebar_label: 4. The Print Function
+sidebar_position: 4
 ---
 
 # The Print Function: Recording Your First Entry
@@ -71,7 +71,7 @@ Everything after `#` is considered a comment.
 ```
 
 <details>
-  <summary>Read more about `print()` function</summary>
+  <summary>📚 Deep Dive</summary>
 
 `print()` function has a few other arguments that you can use to further format your text on the screen.
 

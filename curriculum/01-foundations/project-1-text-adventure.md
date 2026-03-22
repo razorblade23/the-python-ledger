@@ -2,7 +2,7 @@
 id: project-1-text-adventure
 title: "Project 1: The Ledger of Fate"
 sidebar_label: "🏆 Project 1: Text Adventure"
-sidebar_position: 9
+sidebar_position: 10
 ---
 
 # 🏆 Project 1: The Ledger of Fate

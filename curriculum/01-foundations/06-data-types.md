@@ -1,8 +1,8 @@
 ---
 id: data-types
 title: Data Types
-sidebar_label: 5. Data Types
-sidebar_position: 5
+sidebar_label: 6. Data Types
+sidebar_position: 6
 ---
 
 # Data Types: Sorting the Ledger
@@ -72,9 +72,9 @@ You are auditing your supply of "Coding Fuel."
 ---
 
 <details>
-  <summary>Read more about primitive data types</summary>
+  <summary>📚 Deep Dive</summary>
 
-These represent the smallest possible unit of information that can be stored.
+Primitive data types represent the smallest possible unit of information that can be stored.
 In python, these are the ones listed above, as well as `complex` which is used for scientific calculations and wont be part of this course. 
 
 To learn more about primitive data types in python, visit:

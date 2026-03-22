@@ -1,8 +1,8 @@
 ---
 id: variables
 title: Variables
-sidebar_label: 4. Variables
-sidebar_position: 4
+sidebar_label: 5. Variables
+sidebar_position: 5
 ---
 
 # Variables: Labeling the Ledger
@@ -75,17 +75,7 @@ Let's use variables to build a mini "Character Sheet" for your coding journey.
 ---
 
 <details>
-  <summary>Read more about variables</summary>
-
-`print()` function has a few other arguments that you can use to further format your text on the screen.
-
-Full function signiture is as follows:
-```python
-print(*objects, sep=' ', end='\n', file=None, flush=False)
-```
-
-To learn more about this specific function and its arguments, visit:
-* [Official python documentation](https://docs.python.org/3/library/functions.html#print)
+  <summary>📚 Deep Dive</summary>
 
 Other resources:
 * [Geomar.de: Variables and Assignment](https://2025-pherwiss-2-945e87.pages.geomar.de/content/02_python_basics/02_variables_assignments.html)

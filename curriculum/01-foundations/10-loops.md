@@ -1,8 +1,8 @@
 ---
 id: loops
 title: Loops
-sidebar_label: 9. Loops
-sidebar_position: 10
+sidebar_label: 10. Loops
+sidebar_position: 11
 ---
 
 # 🐍 Welcome to the Loop Zone! Python `for` and `while` Loops
