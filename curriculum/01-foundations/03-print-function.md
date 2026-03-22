@@ -16,7 +16,7 @@ For `print()`, the input is whatever you put inside the parentheses `()`, and th
 
 :::note
 
-We will learn more about funtions in Python later in the course.
+We will learn more about functions in Python later in the course.
 
 :::
 
