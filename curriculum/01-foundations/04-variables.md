@@ -1,8 +1,8 @@
 ---
 id: variables
 title: Variables
-sidebar_label: 5. Variables
-sidebar_position: 5
+sidebar_label: 4. Variables
+sidebar_position: 4
 ---
 
 # Variables: Labeling the Ledger

@@ -1,8 +1,8 @@
 ---
 id: data-types
 title: Data Types
-sidebar_label: 4. Data Types
-sidebar_position: 4
+sidebar_label: 5. Data Types
+sidebar_position: 5
 ---
 
 # Data Types: Sorting the Ledger
