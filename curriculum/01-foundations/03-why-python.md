@@ -4,16 +4,6 @@ title: What is Python
 sidebar_label: 3. What is Python
 sidebar_position: 3
 ---
-## What is a programming language?
-A programming language is a formal language to define **data structures** and **algorithms**. It is used to instruct a machine to perform a well-defined task. Most languages also provide means to **control the program flow**, that is the order in which the instructions of an algorithm are executed. The instructions itself are build according to grammar of the programming language, called the **syntax**.
-
-### Data Structure
-Data structures are used to organize information in a way that enables efficient access and modification of the data. A simple example is a floating point number where the respective information is an actual number, such as `1.45`. A programming language offers a way to store the number and it offers operators on it, e.g. summation and multiplication. How the number is actually stored in memory and how the operations are performed is hidden away from the programmer. A floating point number is, in most programming languages, a build-in data type which means that it is readily available to the programmer. Many programming languages also allow to create new data structures, based on existing ones. This allows the programmer to design application specific data structures.
-
-### Algorithm
-A algorithm is a finite sequence of well-defined instructions to solve a problem or to perform a computation. The concept of an algorithm is quite old and exists since the antique, e.g. in the form of arithmetic algorithms such as the [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm) to compute the greatest common divisor. Since the order of execution of the instructions are well-defined, algorithms can be easily implemented in a machine executable way which is one task of the programmer.
-
-
 # Why Should You Use Python?
 
 **Python** is a versatile, high-level programming language designed with a clear philosophy: code should be as easy to read as it is to write. Because its syntax closely mimics the English language, it removes the "language barrier" between your ideas and the computer, making it an ideal choice for beginners and professionals alike.
