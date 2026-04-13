@@ -45,4 +45,6 @@ Testing with pytest.
 Capstone: The Expense Tracker Dashboard.
 
 ## 🤝 Contributing
-We are always looking for *"Ledger Keepers"*. Whether you are fixing a typo or designing a new project, your contributions are welcome. Please see CONTRIBUTING.md for our style guide and workflow.
+We are always looking for *"Ledger Keepers"*.
+
+Whether you are fixing a typo or designing a new project, your contributions are welcome. Please see CONTRIBUTING.md for our style guide and workflow.
